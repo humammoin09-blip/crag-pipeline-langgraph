@@ -240,6 +240,7 @@ print("Answer:    \n", result["generation"])
 
 ---
 
+
 ## Key Learnings & Engineering Takeaways
 
 1. **Deterministic Grading with Structured Output:**
